@@ -168,7 +168,7 @@ header .container nav .toggle-menu:hover{
         border-top: 2px solid #ffd29c;
         position: absolute;
         left: 0;
-        top: 100%;
+        top: 50px;
         width:100%;
     }
     header .container nav .nav-bar li{
